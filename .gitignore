@@ -2,3 +2,4 @@ uploads/
 *.zip
 *.sql
 error_log
+config.php
