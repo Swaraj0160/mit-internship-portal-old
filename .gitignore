@@ -1,0 +1,4 @@
+uploads/
+*.zip
+*.sql
+error_log
